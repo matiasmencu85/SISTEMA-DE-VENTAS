@@ -1,0 +1,252 @@
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\bin\Debug\sisventas.exe.config
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\bin\Debug\sisventas.exe
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\bin\Debug\sisventas.pdb
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\bin\Debug\sisventas.xml
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.exe
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.xml
+c:\users\mencu\documents\visual studio 2012\Projects\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - copia - copia - copia - copia - copia - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\RdlCompile.compiled
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas - producto,categoria,venta- funciona\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir\sisventas\obj\Debug\RdlCompile.compiled
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\RdlCompile.compiled
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -imprimir - copia\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCIONES\sisventas\obj\Debug\RdlCompile.compiled
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION DE VENTAS\sisventas\obj\Debug\RdlCompile.compiled
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.exe
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.pdb
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\EntityFramework.dll
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\EntityFramework.xml
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\RdlCompile.cache
+C:\Users\MENCU\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\RdlCompile.compiled
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.exe.config
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.exe
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.xml
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.pdb
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.exe
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.pdb
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\sisventas.xml
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\EntityFramework.dll
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\bin\Debug\EntityFramework.xml
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.Resources.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\RdlCompile.cache
+C:\BAckup MAti Mencu\mencu\Documents\Visual Studio 2012\Projects\sisventas -CORRECCION AUMENTAR STOCK\sisventas\obj\Debug\RdlCompile.compiled

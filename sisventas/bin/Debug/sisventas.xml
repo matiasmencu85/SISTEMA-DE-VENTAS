@@ -1,0 +1,1332 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sisventas
+</name>
+</assembly>
+<members>
+<member name="T:sisventas.dbventasDataSet.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSetTableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datalistado3.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado3.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado3.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistado3TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistado3TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado3TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado3TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistado3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistado3TableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistado3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistado3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistado3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.detalle_ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.generar_comprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_detalle_ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.detalle_ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.generar_comprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_detalle_ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.detalle_ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.generar_comprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_detalle_ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10.mostrar_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.detalle_ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.generar_comprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.mostrar_categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.mostrar_clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.mostrar_detalle_ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.mostrar_productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.mostrar_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet10,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet10)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet10TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1TableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datalistado.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistadoTableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistadoTableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistadoTableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistadoTableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistadoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistadoTableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistadoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistadoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistadoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datasource1.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datasource1.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datasource1.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datasource1.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datasource1.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datasource1.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datasource1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datasource1TableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.datasource1TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datasource1TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datasource1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datasource1TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datasource1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datasource1TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datasource1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datasource1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datasource1TableAdapters.TableAdapterManager.UpdateAll(sisventas.datasource1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datasource1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datasource1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datasource1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datalistado2.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado2.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado2.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado2.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado2.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado2.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistado2TableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.datalistado2TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistado2TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado2TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado2TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistado2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistado2TableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistado2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistado2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistado2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_detalle_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_detalle_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_detalle_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado5.mostrar_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.mostrar_detalle_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.mostrar_productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.mostrar_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistado5TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado5TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado5TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistado5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistado5TableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistado5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3TableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7.mostrar_detalle_ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7.mostrar_detalle_ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7.mostrar_detalle_ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7TableAdapters.mostrar_detalle_ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8.mostrar_detalle_ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8.mostrar_detalle_ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8.mostrar_detalle_ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8TableAdapters.mostrar_detalle_ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet8)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet8TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9.mostrar_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9.mostrar_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9.mostrar_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9TableAdapters.mostrar_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet9)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet9TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.blanco">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.descarga__1_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.eliminar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.ICONO">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.imprimir">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.usuario">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:sisventas.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:sisventas.datalistado4.detalle_ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado4.detalle_ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado4.detalle_ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistado4TableAdapters.detalle_ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistado4TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado4TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado4TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistado4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistado4TableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistado4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistado4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistado4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11.generar_comprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11.generar_comprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11.generar_comprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11TableAdapters.generar_comprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet11,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet11)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet11TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.data.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.data.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.data.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.data.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.data.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.data.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.data">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dataTableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.dataTableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dataTableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.data,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dataTableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.data,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dataTableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.data,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dataTableAdapters.TableAdapterManager.UpdateAll(sisventas.data)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dataTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dataTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.datalistado1.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado1.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.datalistado1.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado1.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.datalistado1.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado1.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.datalistado1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.datalistado1TableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.datalistado1TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.datalistado1TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.datalistado1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado1TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.datalistado1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.datalistado1TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.datalistado1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.datalistado1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.datalistado1TableAdapters.TableAdapterManager.UpdateAll(sisventas.datalistado1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.datalistado1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.datalistado1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.datalistado1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.dbventasDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.dbventasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.dbventasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.UpdateAll(sisventas.dbventasDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.dbventasDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbventasModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="dbventasEntities" p1:LazyLoadingEnabled="true">
+    <FunctionImport Name="aumentar_stock">
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+      <Parameter Name="cantidad" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="disminuir_stock">
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+      <Parameter Name="cantidad" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="editar_categoria">
+      <Parameter Name="idcategoria" Mode="In" Type="Int32" />
+      <Parameter Name="nombre_categoria" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="editar_cliente">
+      <Parameter Name="idcliente" Mode="In" Type="Int32" />
+      <Parameter Name="nombre" Mode="In" Type="String" />
+      <Parameter Name="apellidos" Mode="In" Type="String" />
+      <Parameter Name="direccion" Mode="In" Type="String" />
+      <Parameter Name="telefono" Mode="In" Type="String" />
+      <Parameter Name="dni" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="editar_detalle_ventas">
+      <Parameter Name="iddetalle_venta" Mode="In" Type="Int32" />
+      <Parameter Name="idventa" Mode="In" Type="Int32" />
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+      <Parameter Name="cantidad" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_unitario" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="editar_producto">
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+      <Parameter Name="idcategoria" Mode="In" Type="Int32" />
+      <Parameter Name="nombre" Mode="In" Type="String" />
+      <Parameter Name="descripcion" Mode="In" Type="String" />
+      <Parameter Name="stock" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_compra" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_venta" Mode="In" Type="Decimal" />
+      <Parameter Name="fecha_vencimiento" Mode="In" Type="DateTime" />
+      <Parameter Name="imagen" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="editar_ventas">
+      <Parameter Name="idventa" Mode="In" Type="Int32" />
+      <Parameter Name="idcliente" Mode="In" Type="Int32" />
+      <Parameter Name="fecha_venta" Mode="In" Type="DateTime" />
+      <Parameter Name="tipo_documento" Mode="In" Type="String" />
+      <Parameter Name="num_documento" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="eliminar_categoria">
+      <Parameter Name="idcategoria" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="eliminar_cliente">
+      <Parameter Name="idcliente" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="eliminar_detalle_venta">
+      <Parameter Name="iddetalle_venta" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="eliminar_producto">
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="eliminar_venta">
+      <Parameter Name="idventa" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="insertar_categoria">
+      <Parameter Name="nombre_categoria" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="insertar_cliente">
+      <Parameter Name="nombres" Mode="In" Type="String" />
+      <Parameter Name="apellido" Mode="In" Type="String" />
+      <Parameter Name="direccion" Mode="In" Type="String" />
+      <Parameter Name="telefono" Mode="In" Type="String" />
+      <Parameter Name="dni" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="insertar_detalle_ventas">
+      <Parameter Name="idventa" Mode="In" Type="Int32" />
+      <Parameter Name="idproducto" Mode="In" Type="Int32" />
+      <Parameter Name="cantidad" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_unitario" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="insertar_producto">
+      <Parameter Name="idcategoria" Mode="In" Type="Int32" />
+      <Parameter Name="nombre" Mode="In" Type="String" />
+      <Parameter Name="descripcion" Mode="In" Type="String" />
+      <Parameter Name="stock" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_compra" Mode="In" Type="Decimal" />
+      <Parameter Name="precio_venta" Mode="In" Type="Decimal" />
+      <Parameter Name="fecha_vencimiento" Mode="In" Type="DateTime" />
+      <Parameter Name="imagen" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="insertar_venta">
+      <Parameter Name="idcliente" Mode="In" Type="Int32" />
+      <Parameter Name="fecha_venta" Mode="In" Type="DateTime" />
+      <Parameter Name="tipo_documento" Mode="In" Type="String" />
+      <Parameter Name="num_documento" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="mostrar_categoria" ReturnType="Collection(dbventasModel.mostrar_categoria_Result)" />
+    <FunctionImport Name="mostrar_cliente" ReturnType="Collection(dbventasModel.mostrar_cliente_Result)" />
+    <FunctionImport Name="mostrar_detalle_venta" ReturnType="Collection(dbventasModel.mostrar_detalle_venta_Result)" />
+    <FunctionImport Name="mostrar_producto" ReturnType="Collection(dbventasModel.mostrar_producto_Result)" />
+    <FunctionImport Name="mostrar_venta" ReturnType="Collection(dbventasModel.mostrar_venta_Result)" />
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(dbventasModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(dbventasModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="mostrar_categoria_Result">
+    <Property Type="Int32" Name="idcategoria" Nullable="false" />
+    <Property Type="String" Name="nombre_categoria" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="mostrar_cliente_Result">
+    <Property Type="Int32" Name="idcliente" Nullable="false" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="apellidos" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="direccion" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="telefono" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
+  </ComplexType>
+  <ComplexType Name="mostrar_detalle_venta_Result">
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="iddetalle_venta" Nullable="false" />
+    <Property Type="Int32" Name="idventa" Nullable="false" />
+    <Property Type="Int32" Name="idproducto" Nullable="false" />
+    <Property Type="Decimal" Name="cantidad" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="precio_unitario" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="mostrar_producto_Result">
+    <Property Type="Int32" Name="idproducto" Nullable="false" />
+    <Property Type="Int32" Name="idcategoria" Nullable="false" />
+    <Property Type="String" Name="nombre_categoria" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="descripcion" Nullable="false" MaxLength="255" />
+    <Property Type="Decimal" Name="stock" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="precio_compra" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="precio_venta" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="fecha_vencimiento" Nullable="false" />
+    <Property Type="Binary" Name="imagen" Nullable="true" MaxLength="Max" />
+  </ComplexType>
+  <ComplexType Name="mostrar_venta_Result">
+    <Property Type="String" Name="apellidos" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
+    <Property Type="Int32" Name="idventa" Nullable="false" />
+    <Property Type="Int32" Name="idcliente" Nullable="false" />
+    <Property Type="DateTime" Name="fecha_venta" Nullable="false" />
+    <Property Type="String" Name="tipo_documento" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="num_documento" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>
